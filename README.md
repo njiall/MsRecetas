@@ -1,1 +1,1 @@
-# recetarioSrping
+Microservicio de recetas
